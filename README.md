@@ -6,9 +6,9 @@ Eruv
 # Synopsis
 Twitter/Twilio/AWS Lambda Interface
 
-#Authors
-Original Author: Shalom Kaplan
-Updated by: David Weintraub (david@weintraub)
+# Authors
+Original Author: Shalom Kaplan  
+Updated by: David Weintraub (david@weintraub.name)
 
 # Description
 This was part of a package to setup an Eruv hotline that was automated. In Highland Park, we use Twitter as
